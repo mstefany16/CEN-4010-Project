@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b39b7d1-5ced-429b-aeac-6d75f0f9cd98" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conFusion-Angular" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/CEN-4010-Project.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="CEN-4010-Project.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -158,12 +154,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1478637380829</updated>
-      <workItem from="1478637381942" duration="157000" />
+      <workItem from="1478637381942" duration="237000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="157000" />
+    <option name="totallyTimeSpent" value="237000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="720" y="22" width="720" height="874" extended-state="0" />
